@@ -1,0 +1,8 @@
+c:\users\yurai\source\repos\Graduation Work Server Get Info Files\Draduation Work Server Create Folder\bin\Debug\Draduation Work Server Create Folder.exe.config
+c:\users\yurai\source\repos\Graduation Work Server Get Info Files\Draduation Work Server Create Folder\bin\Debug\Draduation Work Server Create Folder.exe
+c:\users\yurai\source\repos\Graduation Work Server Get Info Files\Draduation Work Server Create Folder\bin\Debug\Draduation Work Server Create Folder.pdb
+c:\users\yurai\source\repos\Graduation Work Server Get Info Files\Draduation Work Server Create Folder\bin\Debug\Newtonsoft.Json.dll
+c:\users\yurai\source\repos\Graduation Work Server Get Info Files\Draduation Work Server Create Folder\obj\Debug\Draduation Work Server Create Folder.csproj.CoreCompileInputs.cache
+c:\users\yurai\source\repos\Graduation Work Server Get Info Files\Draduation Work Server Create Folder\obj\Debug\Draduation Work Server Create Folder.exe
+c:\users\yurai\source\repos\Graduation Work Server Get Info Files\Draduation Work Server Create Folder\obj\Debug\Draduation Work Server Create Folder.pdb
+c:\users\yurai\source\repos\Graduation Work Server Get Info Files\Draduation Work Server Create Folder\obj\Debug\Draduation Work Server Create Folder.csprojResolveAssemblyReference.cache

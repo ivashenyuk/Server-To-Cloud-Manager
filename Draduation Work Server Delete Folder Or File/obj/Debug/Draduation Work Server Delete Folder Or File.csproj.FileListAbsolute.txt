@@ -1,0 +1,8 @@
+c:\users\yurai\source\repos\Graduation Work Server Get Info Files\Draduation Work Server Delete Folder Or File\obj\Debug\Draduation Work Server Delete Folder Or File.csproj.CoreCompileInputs.cache
+c:\users\yurai\source\repos\Graduation Work Server Get Info Files\Draduation Work Server Delete Folder Or File\bin\Debug\Draduation Work Server Delete Folder Or File.exe.config
+c:\users\yurai\source\repos\Graduation Work Server Get Info Files\Draduation Work Server Delete Folder Or File\bin\Debug\Draduation Work Server Delete Folder Or File.exe
+c:\users\yurai\source\repos\Graduation Work Server Get Info Files\Draduation Work Server Delete Folder Or File\bin\Debug\Draduation Work Server Delete Folder Or File.pdb
+c:\users\yurai\source\repos\Graduation Work Server Get Info Files\Draduation Work Server Delete Folder Or File\bin\Debug\Newtonsoft.Json.dll
+c:\users\yurai\source\repos\Graduation Work Server Get Info Files\Draduation Work Server Delete Folder Or File\obj\Debug\Draduation Work Server Delete Folder Or File.exe
+c:\users\yurai\source\repos\Graduation Work Server Get Info Files\Draduation Work Server Delete Folder Or File\obj\Debug\Draduation Work Server Delete Folder Or File.pdb
+c:\users\yurai\source\repos\Graduation Work Server Get Info Files\Draduation Work Server Delete Folder Or File\obj\Debug\Draduation Work Server Delete Folder Or File.csprojResolveAssemblyReference.cache

@@ -1,0 +1,8 @@
+C:\Users\yurai\source\repos\Graduation Work Server Get Info Files\Draduation Work Server Load Files From Client\bin\Debug\Draduation Work Server Load Files From Client.exe.config
+C:\Users\yurai\source\repos\Graduation Work Server Get Info Files\Draduation Work Server Load Files From Client\bin\Debug\Draduation Work Server Load Files From Client.exe
+C:\Users\yurai\source\repos\Graduation Work Server Get Info Files\Draduation Work Server Load Files From Client\bin\Debug\Draduation Work Server Load Files From Client.pdb
+C:\Users\yurai\source\repos\Graduation Work Server Get Info Files\Draduation Work Server Load Files From Client\obj\Debug\Draduation Work Server Load Files From Client.csprojResolveAssemblyReference.cache
+C:\Users\yurai\source\repos\Graduation Work Server Get Info Files\Draduation Work Server Load Files From Client\obj\Debug\Draduation Work Server Load Files From Client.csproj.CoreCompileInputs.cache
+C:\Users\yurai\source\repos\Graduation Work Server Get Info Files\Draduation Work Server Load Files From Client\obj\Debug\Draduation Work Server Load Files From Client.exe
+C:\Users\yurai\source\repos\Graduation Work Server Get Info Files\Draduation Work Server Load Files From Client\obj\Debug\Draduation Work Server Load Files From Client.pdb
+C:\Users\yurai\source\repos\Graduation Work Server Get Info Files\Draduation Work Server Load Files From Client\bin\Debug\Newtonsoft.Json.dll

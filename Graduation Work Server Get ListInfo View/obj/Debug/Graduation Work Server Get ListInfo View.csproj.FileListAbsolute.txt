@@ -1,0 +1,11 @@
+c:\users\yurai\source\repos\Graduation Work Server Get Info Files\Graduation Work Server Get ListInfo View\bin\Debug\Graduation Work Server Get ListInfo View.exe.config
+c:\users\yurai\source\repos\Graduation Work Server Get Info Files\Graduation Work Server Get ListInfo View\bin\Debug\Graduation Work Server Get ListInfo View.exe
+c:\users\yurai\source\repos\Graduation Work Server Get Info Files\Graduation Work Server Get ListInfo View\bin\Debug\Graduation Work Server Get ListInfo View.pdb
+c:\users\yurai\source\repos\Graduation Work Server Get Info Files\Graduation Work Server Get ListInfo View\bin\Debug\Graduation Work Server Get Info Files.exe
+c:\users\yurai\source\repos\Graduation Work Server Get Info Files\Graduation Work Server Get ListInfo View\bin\Debug\Newtonsoft.Json.dll
+c:\users\yurai\source\repos\Graduation Work Server Get Info Files\Graduation Work Server Get ListInfo View\bin\Debug\Graduation Work Server Get Info Files.pdb
+c:\users\yurai\source\repos\Graduation Work Server Get Info Files\Graduation Work Server Get ListInfo View\bin\Debug\Graduation Work Server Get Info Files.exe.config
+c:\users\yurai\source\repos\Graduation Work Server Get Info Files\Graduation Work Server Get ListInfo View\obj\Debug\Graduation Work Server Get ListInfo View.csprojResolveAssemblyReference.cache
+c:\users\yurai\source\repos\Graduation Work Server Get Info Files\Graduation Work Server Get ListInfo View\obj\Debug\Graduation Work Server Get ListInfo View.csproj.CoreCompileInputs.cache
+c:\users\yurai\source\repos\Graduation Work Server Get Info Files\Graduation Work Server Get ListInfo View\obj\Debug\Graduation Work Server Get ListInfo View.exe
+c:\users\yurai\source\repos\Graduation Work Server Get Info Files\Graduation Work Server Get ListInfo View\obj\Debug\Graduation Work Server Get ListInfo View.pdb
