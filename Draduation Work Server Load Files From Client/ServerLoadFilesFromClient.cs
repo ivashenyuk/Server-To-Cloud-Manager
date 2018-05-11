@@ -14,7 +14,7 @@ using System.Diagnostics;
 
 namespace Draduation_Work_Server_Load_Files_From_Client
 {
-
+    
     public class ServerLoadFilesFromClient
     {
         public const int sizeBuffer = 20971520;

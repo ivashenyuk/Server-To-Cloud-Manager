@@ -1,0 +1,7 @@
+D:\Windows\ООП\Дипломна робота 2018 (Віняр Андрій)\Graduation Work Server Get Info Files\Graduation Work Server Send Email\bin\Debug\Graduation Work Server Send Email.exe.config
+D:\Windows\ООП\Дипломна робота 2018 (Віняр Андрій)\Graduation Work Server Get Info Files\Graduation Work Server Send Email\bin\Debug\Graduation Work Server Send Email.exe
+D:\Windows\ООП\Дипломна робота 2018 (Віняр Андрій)\Graduation Work Server Get Info Files\Graduation Work Server Send Email\bin\Debug\Graduation Work Server Send Email.pdb
+D:\Windows\ООП\Дипломна робота 2018 (Віняр Андрій)\Graduation Work Server Get Info Files\Graduation Work Server Send Email\obj\Debug\Graduation Work Server Send Email.csprojResolveAssemblyReference.cache
+D:\Windows\ООП\Дипломна робота 2018 (Віняр Андрій)\Graduation Work Server Get Info Files\Graduation Work Server Send Email\obj\Debug\Graduation Work Server Send Email.csproj.CoreCompileInputs.cache
+D:\Windows\ООП\Дипломна робота 2018 (Віняр Андрій)\Graduation Work Server Get Info Files\Graduation Work Server Send Email\obj\Debug\Graduation Work Server Send Email.exe
+D:\Windows\ООП\Дипломна робота 2018 (Віняр Андрій)\Graduation Work Server Get Info Files\Graduation Work Server Send Email\obj\Debug\Graduation Work Server Send Email.pdb

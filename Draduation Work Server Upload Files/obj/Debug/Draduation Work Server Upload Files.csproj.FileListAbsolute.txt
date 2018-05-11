@@ -1,0 +1,7 @@
+D:\Windows\ООП\Дипломна робота 2018 (Віняр Андрій)\Graduation Work Server Get Info Files\Draduation Work Server Upload Files\bin\Debug\Draduation Work Server Upload Files.exe.config
+D:\Windows\ООП\Дипломна робота 2018 (Віняр Андрій)\Graduation Work Server Get Info Files\Draduation Work Server Upload Files\bin\Debug\Draduation Work Server Upload Files.exe
+D:\Windows\ООП\Дипломна робота 2018 (Віняр Андрій)\Graduation Work Server Get Info Files\Draduation Work Server Upload Files\bin\Debug\Draduation Work Server Upload Files.pdb
+D:\Windows\ООП\Дипломна робота 2018 (Віняр Андрій)\Graduation Work Server Get Info Files\Draduation Work Server Upload Files\obj\Debug\Draduation Work Server Upload Files.csproj.CoreCompileInputs.cache
+D:\Windows\ООП\Дипломна робота 2018 (Віняр Андрій)\Graduation Work Server Get Info Files\Draduation Work Server Upload Files\obj\Debug\Draduation Work Server Upload Files.exe
+D:\Windows\ООП\Дипломна робота 2018 (Віняр Андрій)\Graduation Work Server Get Info Files\Draduation Work Server Upload Files\obj\Debug\Draduation Work Server Upload Files.pdb
+D:\Windows\ООП\Дипломна робота 2018 (Віняр Андрій)\Graduation Work Server Get Info Files\Draduation Work Server Upload Files\obj\Debug\Draduation Work Server Upload Files.csprojResolveAssemblyReference.cache

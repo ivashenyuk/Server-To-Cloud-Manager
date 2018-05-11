@@ -7,11 +7,21 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Graduation Work Server Get 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Graduation Work Server Get ListInfo View", "Graduation Work Server Get ListInfo View\Graduation Work Server Get ListInfo View.csproj", "{3B4F5BF7-282B-4CF3-9104-9646D2BBFA90}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Draduation Work Server Create Folder", "Draduation Work Server Create Folder\Draduation Work Server Create Folder.csproj", "{B7291065-621F-48D9-85D2-58397D6EC8B5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Graduation Work Server Create Folder", "Draduation Work Server Create Folder\Graduation Work Server Create Folder.csproj", "{B7291065-621F-48D9-85D2-58397D6EC8B5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Draduation Work Server Delete Folder Or File", "Draduation Work Server Delete Folder Or File\Draduation Work Server Delete Folder Or File.csproj", "{2BC17C89-3F95-4C65-BE04-4012F4B824FB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Graduation Work Server Delete Folder Or File", "Draduation Work Server Delete Folder Or File\Graduation Work Server Delete Folder Or File.csproj", "{2BC17C89-3F95-4C65-BE04-4012F4B824FB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Draduation Work Server Load Files From Client", "Draduation Work Server Load Files From Client\Draduation Work Server Load Files From Client.csproj", "{753FEF3A-0944-463F-A02D-6276E2620DFC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Graduation Work Server Load Files From Client", "Draduation Work Server Load Files From Client\Graduation Work Server Load Files From Client.csproj", "{753FEF3A-0944-463F-A02D-6276E2620DFC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Graduation Work Server Upload Files", "Draduation Work Server Upload Files\Graduation Work Server Upload Files.csproj", "{01703FD7-EE4F-4944-BE49-1C7C1118D3BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Graduation Work Server Login", "Graduation Work Server Login\Graduation Work Server Login.csproj", "{FF1FFA90-25F9-4225-9026-6BE244AA47B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Graduation Work Server Registration", "Graduation Work Server Registration\Graduation Work Server Registration.csproj", "{746FA980-5877-461B-AB8D-FC3FCB0EF952}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Graduation Work Server Send Email", "Graduation Work Server Send Email\Graduation Work Server Send Email.csproj", "{94A255A3-9BC5-4696-B740-64291A3173D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Graduation Work Server Restoration Password", "Graduation Work Server Restoration Password\Graduation Work Server Restoration Password.csproj", "{6846AE39-11B4-4335-B549-D33F3302D04D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +49,26 @@ Global
 		{753FEF3A-0944-463F-A02D-6276E2620DFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{753FEF3A-0944-463F-A02D-6276E2620DFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{753FEF3A-0944-463F-A02D-6276E2620DFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01703FD7-EE4F-4944-BE49-1C7C1118D3BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01703FD7-EE4F-4944-BE49-1C7C1118D3BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01703FD7-EE4F-4944-BE49-1C7C1118D3BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01703FD7-EE4F-4944-BE49-1C7C1118D3BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF1FFA90-25F9-4225-9026-6BE244AA47B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF1FFA90-25F9-4225-9026-6BE244AA47B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF1FFA90-25F9-4225-9026-6BE244AA47B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF1FFA90-25F9-4225-9026-6BE244AA47B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{746FA980-5877-461B-AB8D-FC3FCB0EF952}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{746FA980-5877-461B-AB8D-FC3FCB0EF952}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{746FA980-5877-461B-AB8D-FC3FCB0EF952}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{746FA980-5877-461B-AB8D-FC3FCB0EF952}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94A255A3-9BC5-4696-B740-64291A3173D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94A255A3-9BC5-4696-B740-64291A3173D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94A255A3-9BC5-4696-B740-64291A3173D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94A255A3-9BC5-4696-B740-64291A3173D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6846AE39-11B4-4335-B549-D33F3302D04D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6846AE39-11B4-4335-B549-D33F3302D04D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6846AE39-11B4-4335-B549-D33F3302D04D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6846AE39-11B4-4335-B549-D33F3302D04D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
